@@ -1,0 +1,32 @@
+{
+  "name": "discord-game-controller",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=6.5",
+    "npm": ">=3.10"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptlm500/discord-game-controller.git"
+  },
+  "author": "Peter Mills",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ptlm500/discord-game-controller/issues"
+  },
+  "homepage": "https://github.com/ptlm500/discord-game-controller#readme",
+  "dependencies": {
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-plugin-jest": "^23.0.0",
+    "eslint-plugin-jsdoc": "^18.0.1",
+    "jest": "^24.9.0"
+  }
+}
